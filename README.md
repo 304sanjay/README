@@ -242,8 +242,8 @@ Ensure that you have the following prerequisites installed on your system:
 
 You can start by cloning this repository to your local machine using Git:
 
+https://github.com/304sanjay/README.git
 
-https://github.com/17saravanan/DAC_phase1
 ### Step 2: Install Required Libraries
 In your Python environment, install the necessary  
 
@@ -368,7 +368,7 @@ sns.scatterplot(x,np.log(y))
 sns.regplot(x,np.log(y))
 sns.regplot(x,np.log(y))
 sns.regplot(x,np.log(y))
-![image](https://github.com/17saravanan/DAC_phase1/assets/146808356/5e5a1f02-5364-4e63-b24f-cf9f6d1ec0a3)
+![image](https://github.com/304sanjay/README/assets/146908702/28681a8b-483b-4d54-a4fa-12dd6397e298)
 
 
 ## Creating Visualizations in IBM Cognos
@@ -427,7 +427,7 @@ sns.regplot(x,np.log(y))
 This project was a collaborative effort involving the following team members and contributors:
 
 **Sample**
-
+![image](https://github.com/304sanjay/README/assets/146908702/28681a8b-483b-4d54-a4fa-12dd6397e298)
 
 
 
